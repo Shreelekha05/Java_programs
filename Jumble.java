@@ -1,7 +1,7 @@
 package logicalbuilt;
 import java.util.Scanner;
 
-public class jumble {
+public class Jumble {
     public static String jumbleWord(String word, int method) {
         StringBuilder odd = new StringBuilder();
         StringBuilder even = new StringBuilder();
